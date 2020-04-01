@@ -14,4 +14,13 @@
 * XGBoost：https://blog.csdn.net/qq_40722827/article/details/104519397
 * LightGBM：https://blog.csdn.net/qq_40722827/article/details/104519910
 * ML特征工程和优化方法：https://blog.csdn.net/qq_40722827/article/details/104515955
-* 
+* 贝叶斯与朴素贝叶斯入门及实战：https://blog.csdn.net/qq_40722827/article/details/104514445
+* K-Means：https://blog.csdn.net/qq_40722827/article/details/104515587
+* SVM：https://blog.csdn.net/qq_40722827/article/details/104515213
+* 人工智能预测2020天猫双十一销量：https://blog.csdn.net/qq_40722827/article/details/104569684
+* 国庆档电影数据爬取与分析实战：https://blog.csdn.net/qq_40722827/article/details/104571023
+* 新型肺炎数据爬取与分析实战：https://blog.csdn.net/qq_40722827/article/details/104572005
+* 天池工业蒸汽量预测实战：https://blog.csdn.net/qq_40722827/article/details/104572506
+* 少年的你电影评论爬取和分析实战：https://blog.csdn.net/qq_40722827/article/details/104576147
+
+* 有些知识点由于前期写得不是很好，后续我会继续完善博客内容。
